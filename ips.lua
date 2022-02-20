@@ -1,5 +1,1 @@
 _G.IMAPROANDICANTCRACKTHISSCDFKFKF =  {"213.182.118.38","108.24.180.176"}
-print("worked")
-for i,v in pairs(_G.IMAPROANDICANTCRACKTHISSCDFKFKF) do
-  print(v)
-end
